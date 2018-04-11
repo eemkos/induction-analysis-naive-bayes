@@ -1,4 +1,8 @@
 # Created by https://www.gitignore.io/api/data,pycharm,jupyternotebook
+*.idea
+**__pycache__*
+data/*
+
 
 ### Data ###
 *.csv
@@ -13,6 +17,7 @@
 *.tax2010
 *.vcf
 *.xml
+
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
